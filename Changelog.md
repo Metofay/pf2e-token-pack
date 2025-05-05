@@ -1,6 +1,35 @@
 # Changelog
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/pf2e-token-pack/blob/master/Changelog-en.md)
+
+## Version 1.6.0
+1. Разделен NPC core и NPC Gallery
+2. Изменено написание пути к артам/токенам из-за конфликта с Carousel Combat Tracker, когда при инициативе Арт в карусели не было
+3. Исправлен арт в АП Age of Ashes "Spiritbound Aluum"
+4. Добавлен арт в АП Agents of Edgewatch "Carvey"
+5. Добавлены флаги армии в АП Kingmaker
+6. Добавлен NPC Core
+7. Изменено наименование папки модуля
+8. Изменил написание артов и токенов, вместо пробелов в имени, теперь дефис -
+
+## Version 1.5.2
+1. Релиз 1.5.1 криво залился, сделал полный перезалив репозитория, чтобы было как у меня. На данный момент, работает все штатно
+
+## Version 1.5.1
+1. Приведен файл bestiaries.json и название артов/токенов к общему формату, вот такому Child Of Belcorra.webp. Что то +- так же, как и в самом фаундри называются монстры. Надеюсь на обратный отзыв на GitHub или в Discord, т.к в процессе могло что то сломаться, не учесть все что есть и т.д
+
+## Version 1.5.0
+1. Обновлены флаги в Kingmaker
+2. Обновлен SA Rusthenge
+3. Добавлен Ruleboock War of Immortals
+4. Преобразовал файл bestiaries.json, чтобы название артов и токенов первая буква каждого слова была с заглавной буквы. Вроде как для Linux систем, как я понял.
+5. Был добавлен файл transform.js, чтобы я его не потерял, как раз этот скрипт мне помог сделать 4 пункт.
+
+## Version 1.4.3
+1. Исправления отображения настроек
+
+## Version 1.4.2
+1. Исправления отображения настроек
 
 ## Version 1.4.1
 1. Добавлен измененный файл bestiaries(Спасибо danielrab)

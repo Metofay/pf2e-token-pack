@@ -1,9 +1,9 @@
-[![Version (latest)](https://img.shields.io/github/v/release/Metofay/Pathfinder-2e-Bestiary-Token-Pack)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest)
-![Data-release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
+[![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack)](https://github.com/Metofay/pf2e-token-pack/releases/latest)
+![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack)
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/pf2e-token-pack/blob/master/README-en.md)
 
-## Pathfinder-2e-Bestiary-Token-Pack
+## PF2e Token Pack
 Данный модуль предназначен для программы Foundry VTT, добавляет арты/токены бестиария и АП в систему НРИ Pathfinder 2e.
 
 <b><i>В данном модуле присутствуют арты/токены для:</i></b>
@@ -14,6 +14,7 @@
 2.	Bestiary 2
 3.	Bestiary 3
 4.	Monster core
+5.  NPC core
 
 <b>Пути Приключений:</b>
 
@@ -51,6 +52,7 @@
 12. Dark Archive
 13. Howl of the Wild
 14. Lost Omens Tian Xia World Guide
+15. War of Immortals
 
 <b>Приключения</b>
 

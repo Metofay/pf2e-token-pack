@@ -1,7 +1,5 @@
 {
-    "PATHFINDER2E-BESTIARY-TOKEN-PACK": {
-        "pathfinder-bestiary": "Бестиарий",
-
+    "PF2E-TOKEN-PACK": {
         "ModuleName": "Модуль монстров Pathfinder",
         "ReloadDialogTitle": "Настройки изменены",
         "ReloadDialogContent": "Настройки были изменены. Для применения изменений необходимо перезагрузить приложение.",
@@ -12,7 +10,7 @@
         "UnderstoodButton": "Понятно",
         "NoChanges": "Изменений в настройках не обнаружено. Перезагрузка не требуется.",
 
-        "settingsMessage": "Выберите бестиарии и/или приключения, изображения и портреты для которых вы не хотите подгружать из данного модуля. По умолчанию - все включено и загружает",
+        "settingsMessage": "Выберите бестиарии и/или приключения, изображения и портреты для которых вы не хотите подгружать из данного модуля. По умолчанию - не выбрано и загружает арты",
         "bestiaries": "Бестиарии",
         "adventure path": "Пути Приключений",
         "rulebook": "Книга правил",
@@ -22,6 +20,7 @@
         "Pathfinder Bestiary 2": "Bestiary 2",
         "Pathfinder Bestiary 3": "Bestiary 3",
         "Pathfinder Monster Core": "Monster Core",
+        "Pathfinder NPC Core": "NPC Core",
         "Abomination Vaults Bestiary": "Abomination Vaults",
         "Age of Ashes Bestiary": "Age of Ashes",
         "Agents of Edgewatch Bestiary": "Agents of Edgewatch",
@@ -51,6 +50,7 @@
         "NPC Gallery": "NPC Gallery",
         "Pathfinder Dark Archive": "Dark Archive",
         "Rage of Elements Bestiary": "Rage of Elements",
+        "War of Immortals Bestiary": "War of Immortals",
         "Fall of Plaguestone Bestiary": "Fall of Plaguestone",
         "Malevolence Bestiary": "Malevolence",
         "Menace Under Otari Bestiary": "Menace Under Otari",

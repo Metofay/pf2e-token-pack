@@ -1,7 +1,7 @@
-[![Version (latest)](https://img.shields.io/github/v/release/Metofay/Pathfinder-2e-Bestiary-Token-Pack)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest)
-![Data-release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
+[![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack)](https://github.com/Metofay/pf2e-token-pack/releases/latest)
+![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack)
 
-## Pathfinder-2e-Bestiary-Token-Pack
+## PF2e Token Pack
 This module is designed for the Foundry VTT program, adds bestiary and API art/tokens to the Pathfinder 2e system
 
 <b><i>This module contains art/tokens for:</i></b>
@@ -12,6 +12,7 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 2.	Bestiary 2
 3.	Bestiary 3
 4.	Monster core
+5.  NPC core
 
 <b>Adventure Patch:</b>
 
@@ -49,6 +50,7 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 12. Dark Archive
 13. Howl of the Wild
 14. Lost Omens Tian Xia World Guide
+15. War of Immortals
 
 <b>Standalone Adventures</b>
 

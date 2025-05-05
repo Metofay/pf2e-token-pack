@@ -1,5 +1,33 @@
 # Changelog
 
+## Version 1.6.0
+1. Separated by NPC core and NPC Gallery
+2. The spelling of the path to art/tokens was changed due to a conflict with the Carousel Combat Tracker, when there was no Art in the carousel at the initiative.
+3. Fixed art in AP Age of Ashes "Spiritbound Album"
+4. Added art in AP Agents of Edge watch "Carvey"
+5. Added army flags in AP Kingmaker
+6. Added NPC Core
+7. The name of the module folder has been changed
+8. Changed the spelling of art and tokens, instead of spaces in the name, now a hyphen -
+
+## Version 1.5.2
+1. The 1.5.1 release was flooded crookedly, I did a full reload of the repository so that it would be like mine. At the moment, everything is working normally.
+
+## Version 1.5.1
+1. The bestiaries file is provided.json and the name of the art/tokens to a common format, such as Child Of Belcora.webp. Something + is the same as monsters are called in the foundry itself. I hope for feedback on GitHub or Discord, because something might have broken in the process, not taking into account everything that is, etc.
+
+## Version 1.5.0
+1. Updated flags in Kingmaker
+2. Updated SA Rusthenge
+3. Added Rulebooks War of Immortals
+4. I converted the bestiaries file so that the name of the art and tokens is capitalized with the first letter of each word. Kind of like for Linux systems, as I understand it.
+
+## Version 1.4.3
+1. Correction of the settings display
+
+## Version 1.4.2
+1. Correction of the settings display
+
 ## Version 1.4.1
 1. The modified bestiaries file has been added (Thanks danielrab)
 

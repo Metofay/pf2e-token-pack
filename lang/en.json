@@ -1,5 +1,5 @@
 {
-    "PATHFINDER2E-BESTIARY-TOKEN-PACK": {
+    "PF2E-TOKEN-PACK": {
         "ModuleName": "Pathfinder Bestiary Token Pack",
         "ReloadDialogTitle": "Settings Changed",
         "ReloadDialogContent": "The settings have been changed. The application needs to be reloaded for changes to take effect.",
@@ -10,7 +10,7 @@
         "UnderstoodButton": "Understood",
         "NoChanges": "No changes detected in settings. No reload necessary.",
 
-        "settingsMessage": "Choose bestiaries and/or APs, for which you do not wish to upload art from this module. Default - everything is enabled and downloads",
+        "settingsMessage": "Choose bestiaries and/or APs, for which you do not wish to upload art from this module. Default - not selected and loads maps",
         "bestiaries": "Bestiaries",
         "adventure path": "Adventure Paths",
         "rulebook": "Rulebook",
@@ -20,6 +20,7 @@
         "Pathfinder Bestiary 2": "Bestiary 2",
         "Pathfinder Bestiary 3": "Bestiary 3",
         "Pathfinder Monster Core": "Monster Core",
+        "Pathfinder NPC Core": "NPC Core",
         "Abomination Vaults Bestiary": "Abomination Vaults",
         "Age of Ashes Bestiary": "Age of Ashes",
         "Agents of Edgewatch Bestiary": "Agents of Edgewatch",
@@ -49,6 +50,7 @@
         "NPC Gallery": "NPC Gallery",
         "Pathfinder Dark Archive": "Dark Archive",
         "Rage of Elements Bestiary": "Rage of Elements",
+        "War of Immortals Bestiary": "War of Immortals",
         "Fall of Plaguestone Bestiary": "Fall of Plaguestone",
         "Malevolence Bestiary": "Malevolence",
         "Menace Under Otari Bestiary": "Menace Under Otari",

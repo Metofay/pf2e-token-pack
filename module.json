@@ -1,16 +1,16 @@
 {
-  "id": "Pathfinder-2e-Bestiary-Token-Pack",
-  "title": "Pathfinder 2e: Bestiary Token Pack",
+  "id": "pf2e-token-pack",
+  "title": "PF2e Token Pack",
   "description": "Модуль добавляет изображения и токены монстрам и нпс",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
   },
   "scripts": ["scripts.js"],
   "flags": {
-    "Pathfinder-2e-Bestiary-Token-Pack": {
-      "pf2e-art": "modules/Pathfinder-2e-Bestiary-Token-Pack/bestiaries.json"
+    "pf2e-token-pack": {
+      "pf2e-art": "modules/pf2e-token-pack/bestiaries.json"
     }
   },
   "socket": true,
@@ -18,15 +18,6 @@
     {
       "name": "Metofay",
       "discord": "Метофей#135975"
-    },
-    {
-      "name": "World74"
-    },
-    {
-      "name": "TheGeekyOne"
-    },
-    {
-      "name": "LazySelkie"
     }
   ],
   "languages": [
@@ -41,12 +32,12 @@
       "path": "lang/ru.json"
     }
   ],
-  "url": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack",
-  "manifest": "https://raw.githubusercontent.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack//main/module.json",
-  "download": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/archive/refs/heads/main.zip",
-  "readme": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/main/README.md",
-  "bugs": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/issues",
-  "changelog": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/CHANGELOG.md"
+  "url": "https://github.com/Metofay/pf2e-token-pack",
+  "manifest": "https://raw.githubusercontent.com/Metofay/pf2e-token-pack//main/module.json",
+  "download": "https://github.com/Metofay/pf2e-token-pack/archive/refs/heads/main.zip",
+  "readme": "https://github.com/Metofay/pf2e-token-pack/blob/main/README.md",
+  "bugs": "https://github.com/Metofay/pf2e-token-pack/issues",
+  "changelog": "https://github.com/Metofay/pf2e-token-pack/blob/master/CHANGELOG.md"
 }
 
 
